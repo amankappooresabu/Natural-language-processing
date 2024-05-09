@@ -28,7 +28,7 @@ The application processes user-provided data from job applications and calculate
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    https://github.com/amankappooresabu/Natural-language-processing.git
     ```
 
 2. Install dependencies:
